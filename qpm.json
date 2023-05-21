@@ -18,7 +18,7 @@
     },
     {
       "id": "custom-types",
-      "versionRange": "^0.15.21",
+      "versionRange": "^0.15.24",
       "additionalData": {}
     },
     {
@@ -28,24 +28,24 @@
     },
     {
       "id": "codegen",
-      "versionRange": "=0.28.0",
+      "versionRange": "=0.33.0",
       "additionalData": {}
     },
     {
       "id": "config-utils",
-      "versionRange": "^1.0.1",
+      "versionRange": "^1.0.2",
       "additionalData": {}
     },
     {
       "id": "chroma",
-      "versionRange": "^2.7.0",
+      "versionRange": "^2.8.0",
       "additionalData": {}
     },
     {
       "id": "bsml",
-      "versionRange": "^0.2.1",
+      "versionRange": "^0.3.2",
       "additionalData": {}
     }
   ],
-  "additionalData": {}
+  "workspace": null
 }
